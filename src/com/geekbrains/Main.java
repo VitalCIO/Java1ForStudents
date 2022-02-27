@@ -1,4 +1,4 @@
-package com.geekbrains.lesson1.examples;
+package com.geekbrains;
 
 public class Main {
 
